@@ -1,0 +1,32 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body{
+  background-color: aquamarine;
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #48695a;
+  color: #fff;
+}
+
+.testimonial-text {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+  flex: content;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
